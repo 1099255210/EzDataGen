@@ -2,3 +2,24 @@
   margin: 0;
   padding: 0;
 }
+
+#plus, #minus {
+  width: 20px;
+}
+
+#inputaxis {
+  width: 30px;
+}
+
+#myCanvas {
+  /* margin-left: 20px;    */
+}
+
+#lab {
+  display: flex;
+  flex-direction: row;
+}
+
+#label {
+  width: 38px;
+}
